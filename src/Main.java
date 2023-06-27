@@ -1,9 +1,6 @@
 //Zadanie: Napisz program, który zwraca sumę cyfr danej liczby.
 //Podpowiedź: Możesz przekształcić liczbę na ciąg znaków, a następnie zsumować wartości poszczególnych cyfr.
 
-
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         int liczba = 1345;
